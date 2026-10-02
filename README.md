@@ -1,3 +1,7 @@
+> **Maintained by [Girish Lade](https://ladestack.in)** — token-driven, WCAG 2.2 AA accessible design system for developer documentation. Built by Girish Lade — [ladestack.in](https://ladestack.in)
+
+---
+
 # Teracle — Implementation-ready Design System
 
 > A token-driven, accessible design system and documentation site for developer-facing products.
